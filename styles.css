@@ -252,7 +252,6 @@ html {
 .seccion-tres .p_2 .padre,
 .p_4 {
   transform: scaleX(-1);
-  transform-origin: top 12px left;
 }
 
 .seccion-tres .p_2 .parrafo,
@@ -452,7 +451,7 @@ html {
   }
 
   .mobile img {
-    filter: invert(36%) sepia(98%) saturate(5714%) hue-rotate(292deg) brightness(98%) contrast(136%);
+    filter: invert(100%) ;
   }
 
   .header.scrolled {
