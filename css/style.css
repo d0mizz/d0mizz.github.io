@@ -1,6 +1,14 @@
 /********** Template CSS **********/
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
 :root {
-    --primary: #FE5D37;
+    --primary: #b9a19c;
     --light: #FFF5F3;
     --dark: #103741;
 }
@@ -328,6 +336,7 @@ h6,
 
 .facility-item * {
     transition: .5s;
+    
 }
 
 .facility-item:hover * {
