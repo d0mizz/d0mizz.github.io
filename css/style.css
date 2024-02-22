@@ -511,3 +511,10 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+.blog .card{
+
+    align-content: space-between;
+    align-items: center;    
+
+}
